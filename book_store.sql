@@ -77,7 +77,7 @@ WHERE
     id = 2;
 
 -- (pelengkap) Delete Table books dan database bookstore--
-DROP TABLES `books`
-DROP DATABASE `bookstore`
+DROP TABLES `books`;
+DROP DATABASE `bookstore`;
 
 
